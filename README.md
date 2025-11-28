@@ -34,5 +34,5 @@ El objetivo es desarrollar un modelo de clasificación supervisada que prediga e
 | Entregable        | Enlace                                     |
 |-------------------|--------------------------------------------|
 | Entregable 2      | [Ver en YouTube](https://youtu.be/vShOIKVRPDI) |
-| Entregable Final  | *(Próximamente)*                           |
+| Entregable Final  | [Ver en YouTube](https://youtu.be/8Am3CCuqtqQ) |
 
